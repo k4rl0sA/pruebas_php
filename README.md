@@ -2,4 +2,4 @@
 
 Acceso al Demo
 
-[Link to live version](https://k4rl0sA.github.io/prueba_php/)
+[Link to live version](https://k4rl0sA.github.io/pruebas_php/)
